@@ -41,10 +41,13 @@ readline.question('What relative path/directory do I read from?: ./', dir => {
 
 // Function written separately for modularity and use in another app
 const translate = dir => {
+
+    // Get list of file names in directory
     const filenames = fs.readdirSync(`./${dir}`);
 
     const titles = [];
 
+    // Iterate each file name
     filenames.forEach(filename => {
         try {
             let file = fs.readFileSync(`./${dir}/${filename}`, 'utf-8');
@@ -56,11 +59,11 @@ const translate = dir => {
            parser.parseString(file, (err, result) => {
                 if(err) throw err;
                 else {
-                    const res = cleanTitle(result.DATA.TEXT[0]) + ' === ' + cleanTitle(result.DATA.TRANSLATION[0]);
                     titles.push({
                         text: cleanTitle(result.DATA.TEXT[0]),
                         translation: cleanTitle(result.DATA.TRANSLATION[0])
                     });
+
                     titles.sort((a, b) => {
                         const numA = a.text.split(' ')[0];
                         const numB = b.text.split(' ')[0];
@@ -70,10 +73,8 @@ const translate = dir => {
             })
         } catch (err) {
             console.log(`Failed to read ./${dir}/${filename}`);
-            throw err;
         }
     })
-
 
     if(titles.length === 1) {
         console.log("No translations extracted");
