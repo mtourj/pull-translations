@@ -1,0 +1,1149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XML_ELEMENT CF_TYPE="struct">
+  <CONTENTS>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[Title]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[D5D926CD-EC2B-03E8-B89B-1EF2BCBF459A]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:08.757]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[0 - How to use PADI eLearning (nl)]]></TEXT>
+      <TRANSLATION><![CDATA[0 - Werkwijze voor PADI eLearning (nl)]]></TRANSLATION>
+      <TYPE><![CDATA[metadataTitle]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[Correct Choice Alt Text]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[101153]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:08.757]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Correct]]></TEXT>
+      <TRANSLATION><![CDATA[Goed]]></TRANSLATION>
+      <TYPE><![CDATA[correctChoiceText]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[Incorrect Choice Alt Text]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[101153]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:08.757]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Not there yet]]></TEXT>
+      <TRANSLATION><![CDATA[Je bent er nog niet]]></TRANSLATION>
+      <TYPE><![CDATA[incorrectChoiceText]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[Pass Text]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[101153]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:08.757]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Correct]]></TEXT>
+      <TRANSLATION><![CDATA[Goed]]></TRANSLATION>
+      <TYPE><![CDATA[passText]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[Fail Text]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[101153]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:08.757]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Not there yet]]></TEXT>
+      <TRANSLATION><![CDATA[Je bent er nog niet]]></TRANSLATION>
+      <TYPE><![CDATA[failText]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[201655]]></ID>
+      <LASTMODIFIED><![CDATA[]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[Title]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Module]]></TEXT>
+      <TRANSLATION><![CDATA[Module]]></TRANSLATION>
+      <TYPE><![CDATA[moduleTitle]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[512C9D2C-BDCF-486E-931A-3F0CDBDB5A4E]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:07.373]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[Title]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Learning Object]]></TEXT>
+      <TRANSLATION><![CDATA[Leerobject]]></TRANSLATION>
+      <TYPE><![CDATA[metadataTitle]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[A22F0144-1576-4E6D-9622-382E0467EDAC]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:07.373]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[Title]]></PAGEMAPPING>
+      <TEXT><![CDATA[How to use PADI eLearning]]></TEXT>
+      <TRANSLATION><![CDATA[Werkwijze voor PADI eLearning]]></TRANSLATION>
+      <TYPE><![CDATA[metadataTitle]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606080]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.28]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Select the + symbol (or this text) to open]]></TEXT>
+      <TRANSLATION><![CDATA[Klik op het + teken (of op deze tekst) om het tekstkader te openen]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606081]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.28]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Select the <span id="yui-gen1215">-</span> icon to close.]]></TEXT>
+      <TRANSLATION><![CDATA[Klik op het <span id="yui-gen1215">-</span> teken om het tekstkader te sluiten.]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606082]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.28]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[answer]]></TEXT>
+      <TRANSLATION><![CDATA[het beste antwoord]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606083]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.28]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[question]]></TEXT>
+      <TRANSLATION><![CDATA[de vraag]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606084]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.28]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[challenge]]></TEXT>
+      <TRANSLATION><![CDATA[de uitdaging]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[605979]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.7]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<span class="dki-text-style-italic"><span style="color:none;"><span id="yui-gen4"><claro_style id="dki-gen27914" class="dki-text-style-ED332CAE-D4FD-148E-1BFE-06BD083F58F2 dki-text-style-5319C8BA-E62B-E149-A476-1434036DFAF0"><span class="dki-text-style-italic"><span style="color:none;" id="yui-gen7">I<span id="yui-gen6">DC eLear</span>ning</span></span></claro_style></span></span></span>]]></TEXT>
+      <TRANSLATION><![CDATA[<span class="dki-text-style-italic"><span style="color:none;"><span id="yui-gen4"><claro_style id="dki-gen27914" class="dki-text-style-ED332CAE-D4FD-148E-1BFE-06BD083F58F2 dki-text-style-5319C8BA-E62B-E149-A476-1434036DFAF0"><span class="dki-text-style-italic"><span style="color:none;" id="yui-gen7">I<span id="yui-gen6">DC eLear</span>ning</span></span></claro_style></span></span></span>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606062]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.2]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<div id="yui-gen22">How to use PADI eLearning</div>]]></TEXT>
+      <TRANSLATION><![CDATA[<div id="yui-gen22">Werkwijze voor PADI eLearning</div>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606076]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.263]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Section 0 of 16]]></TEXT>
+      <TRANSLATION><![CDATA[Lesprogrammaonderdeel 0 van 16]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[605964]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.653]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<span style="color:#212121;" id="yui-gen22"><claro_style id="dki-gen30562" class="dki-text-style-ED3D0829-C9AE-7C39-0567-2DF7FF847875">Audio for How to Use PADI eLearning: 2:10</claro_style></span>]]></TEXT>
+      <TRANSLATION><![CDATA[<span style="color:#212121;" id="yui-gen22"><claro_style id="dki-gen30562" class="dki-text-style-ED3D0829-C9AE-7C39-0567-2DF7FF847875">Audio voor Werkwijze voor PADI eLearning: 02:10</claro_style></span>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606063]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.2]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Getting the Most Out of This Experience]]></TEXT>
+      <TRANSLATION><![CDATA[Het maximale uit deze leerervaring halen]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[605970]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.67]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<span style="color:none;"><span id="yui-gen157"><claro_style id="dki-gen31069" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1"><span style="color:none;" id="yui-gen80">1</span></claro_style></span></span>]]></TEXT>
+      <TRANSLATION><![CDATA[<span style="color:none;"><span id="yui-gen157"><claro_style id="dki-gen31069" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1"><span style="color:none;" id="yui-gen80">1</span></claro_style></span></span>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606058]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.187]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<claro_style class="dki-text-style-1E08CDCC-0D20-90A0-B2CB-170E580C64DF" id="yui-gen359"></claro_style><claro_style id="dki-gen33283">What is the best way to navigate through the course?</claro_style>]]></TEXT>
+      <TRANSLATION><![CDATA[<claro_style class="dki-text-style-1E08CDCC-0D20-90A0-B2CB-170E580C64DF" id="yui-gen359"></claro_style><claro_style id="dki-gen33283">Wat is de beste manier om door de cursus te navigeren?</claro_style>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[605971]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.67]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<span style="color:none;"><span id="yui-gen157"><claro_style id="dki-gen31248" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1"><span style="color:none;" id="yui-gen84">2</span></claro_style></span></span>]]></TEXT>
+      <TRANSLATION><![CDATA[<span style="color:none;"><span id="yui-gen157"><claro_style id="dki-gen31248" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1"><span style="color:none;" id="yui-gen84">2</span></claro_style></span></span>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606056]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.17]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[What should you expect when you come across a Note box or an interactive component?]]></TEXT>
+      <TRANSLATION><![CDATA[Wat mag je verwachten als je een Opmerking-tekstkader of een interactief element in de leerstof tegenkomt?]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[605972]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.67]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<span style="color:none;"><span id="yui-gen157"><claro_style id="dki-gen31432" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1"><span style="color:none;" id="yui-gen97">3</span></claro_style></span></span>]]></TEXT>
+      <TRANSLATION><![CDATA[<span style="color:none;"><span id="yui-gen157"><claro_style id="dki-gen31432" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1"><span style="color:none;" id="yui-gen97">3</span></claro_style></span></span>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606057]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.187]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[How do you complete Knowledge Checks and Knowledge Reviews?<br />]]></TEXT>
+      <TRANSLATION><![CDATA[Hoe moet je de kennischecks en kennistoetsen doen?<br />]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[605973]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.67]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<span style="color:none;"><span id="yui-gen157"><claro_style id="dki-gen31815" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1"><span style="color:none;" id="yui-gen103">4</span></claro_style></span></span>]]></TEXT>
+      <TRANSLATION><![CDATA[<span style="color:none;"><span id="yui-gen157"><claro_style id="dki-gen31815" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1"><span style="color:none;" id="yui-gen103">4</span></claro_style></span></span>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606059]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.187]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[What should you do if your page doesn’t appear to load right?<br />]]></TEXT>
+      <TRANSLATION><![CDATA[Wat moet je doen als de pagina niet goed lijkt te laden?<br />]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606002]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.793]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<span style="color:none;"><span id="yui-gen157"><claro_style id="dki-gen32009" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1"> <span style="color:none;" id="yui-gen104">5</span> </claro_style></span></span>]]></TEXT>
+      <TRANSLATION><![CDATA[<span style="color:none;"><span id="yui-gen157"><claro_style id="dki-gen32009" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1"> <span style="color:none;" id="yui-gen104">5</span> </claro_style></span></span>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606068]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.233]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[What happens when you complete a section and what should you do next?]]></TEXT>
+      <TRANSLATION><![CDATA[Wat gebeurt er als je een lesprogrammaonderdeel afrondt en wat moet je daarna doen?]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[605974]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.687]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<span style="color:none;"><span id="yui-gen157"><claro_style id="dki-gen32009" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1"><span style="color:none;" id="yui-gen104">6</span></claro_style></span></span>]]></TEXT>
+      <TRANSLATION><![CDATA[<span style="color:none;"><span id="yui-gen157"><claro_style id="dki-gen32009" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1"><span style="color:none;" id="yui-gen104">6</span></claro_style></span></span>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606060]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.2]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[How do you use the audio tool?]]></TEXT>
+      <TRANSLATION><![CDATA[Hoe gebruik je de audiotool?]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606061]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.2]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<span id="yui-gen167">1</span>]]></TEXT>
+      <TRANSLATION><![CDATA[<span id="yui-gen167">1</span>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[605986]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.733]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Audio]]></TEXT>
+      <TRANSLATION><![CDATA[Audio]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[605984]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.717]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Course Navigation]]></TEXT>
+      <TRANSLATION><![CDATA[Cursusnavigatie]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[605985]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.733]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[What is the best way to navigate through the course?]]></TEXT>
+      <TRANSLATION><![CDATA[Wat is de beste manier om door de cursus te navigeren?]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[BB667F29-8034-4983-AA73-7006B7494F58]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.06]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[Keywords]]></PAGEMAPPING>
+      <TEXT><![CDATA[mock,online,video]]></TEXT>
+      <TRANSLATION><![CDATA[mock,online,video]]></TRANSLATION>
+      <TYPE><![CDATA[metadataKeywords]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606049]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.06]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<claro_style id="dki-gen53121" class="dki-text-style-531A4F63-F417-57E2-2441-100C9CBB9F1A">Use the Menu</claro_style><br /><br />Each <claro_style id="dki-gen7036" class="dki-text-style-5319C8BA-E62B-E149-A476-1434036DFAF0">IDC eLearning</claro_style> section is divided into several topics.<br /><br />When you select a section, you’ll see the Contents menu that lists all topics. You can minimize or access this at any time by selecting the top left <i contenteditable="false" unselectable="on" class="fa fa-bars" data-unicode="f0c9" id="yui-gen68"></i> menu icon.]]></TEXT>
+      <TRANSLATION><![CDATA[<claro_style id="dki-gen53121" class="dki-text-style-531A4F63-F417-57E2-2441-100C9CBB9F1A">Gebruik het menu</claro_style><br /><br />Elk <claro_style id="dki-gen7036" class="dki-text-style-5319C8BA-E62B-E149-A476-1434036DFAF0">IDC eLearning</claro_style>-lesprogrammaonderdeel bestaat uit diverse onderwerpen.<br /><br />Als je een lesprogrammaonderdeel selecteert, krijg je het menu te zien met alle onderwerpen. Je kunt het menu op elk moment open of dicht klappen door te klikken op het menu-icoontje in de linkerbovenhoek<i contenteditable="false" unselectable="on" class="fa fa-bars" data-unicode="f0c9" id="yui-gen68"></i>.]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[6DA81123-41D0-47C9-BD27-AF8359B26721]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.03]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[Keywords]]></PAGEMAPPING>
+      <TEXT><![CDATA[arrow,button,cursor,getting,mouse,navigation,next,started]]></TEXT>
+      <TRANSLATION><![CDATA[arrow,button,cursor,getting,mouse,navigation,next,started]]></TRANSLATION>
+      <TYPE><![CDATA[metadataKeywords]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606044]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.03]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<claro_style id="dki-gen58371" class="dki-text-style-531A4F63-F417-57E2-2441-100C9CBB9F1A">Click the Objectives or Scroll to Progress </claro_style><br /><br />You’ll begin each section with the Introduction and scroll down to progress.<br /><br />Each topic has objectives at the top of the page that can be clicked to jump to wherever you left off.<br /><br />Similarly, click <claro_style id="dki-gen58372" class="dki-text-style-531A4F63-F417-57E2-2441-100C9CBB9F1A">Back to Top</claro_style> under each objective divider to jump back to the top of the page.]]></TEXT>
+      <TRANSLATION><![CDATA[<claro_style id="dki-gen58371" class="dki-text-style-531A4F63-F417-57E2-2441-100C9CBB9F1A">Klik op de leerdoelen of blader verder om voortgang te boeken </claro_style><br /><br />Je begint elk lesprogrammaonderdeel met de Inleiding waarna je naar beneden bladert om verder te gaan.<br /><br />Bij elk onderwerp staan de leerdoelen bovenaan de pagina. Door daarop te klikken kun je snel naar het onderwerp waar je gebleven was.<br /><br />Aan het einde van elk onderwerp kun je door op <claro_style id="dki-gen58372" class="dki-text-style-531A4F63-F417-57E2-2441-100C9CBB9F1A">Terug naar boven</claro_style> te klikken terug naar het begin van de pagina.]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[FD596DC7-2135-4F29-B33B-9D59AC0E3CFF]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.077]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[Keywords]]></PAGEMAPPING>
+      <TEXT><![CDATA[cursor,elearning,getting,how,menu,mouse,navigation,options,padi,started,use]]></TEXT>
+      <TRANSLATION><![CDATA[cursor,e-learning,beginnen,hoe,menu,muis,navigatie,opties,padi,gebruiken]]></TRANSLATION>
+      <TYPE><![CDATA[metadataKeywords]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606051]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.09]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<claro_style id="dki-gen57958" class="dki-text-style-531A4F63-F417-57E2-2441-100C9CBB9F1A">Select NEXT to Proceed</claro_style><br /><br />You can choose to go on by selecting the next topic at the bottom of each page, or you can go to the Contents <i contenteditable="false" unselectable="on" class="fa fa-bars" data-unicode="f0c9"></i> menu to choose another topic.<br /><br />It’s recommended that you go through the topics in order, although you can move around as you like.]]></TEXT>
+      <TRANSLATION><![CDATA[<claro_style id="dki-gen57958" class="dki-text-style-531A4F63-F417-57E2-2441-100C9CBB9F1A">Klik op VOLGENDE om door te gaan</claro_style><br /><br />Je kunt ervoor kiezen om door te gaan door te klikken op het volgende onderwerp onderaan de pagina, of om via het <i contenteditable="false" unselectable="on" class="fa fa-bars" data-unicode="f0c9"></i>menu naar een ​​ander onderwerp te gaan.<br /><br />We raden je aan om de onderwerpen in de aangegeven volgorde door te nemen, maar je mag dat ook in je eigen gewenste volgorde doen.]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606064]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.217]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<span id="yui-gen167">2</span>]]></TEXT>
+      <TRANSLATION><![CDATA[<span id="yui-gen167">2</span>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606066]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.217]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<i contenteditable="false" unselectable="on" class="fa fa-angle-double-up" data-unicode="f102"></i> Back to top]]></TEXT>
+      <TRANSLATION><![CDATA[<i contenteditable="false" unselectable="on" class="fa fa-angle-double-up" data-unicode="f102"></i> Terug naar boven]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[605987]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.733]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Audio]]></TEXT>
+      <TRANSLATION><![CDATA[Audio]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[605990]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.747]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Interactions and Note Boxes]]></TEXT>
+      <TRANSLATION><![CDATA[Interactieve elementen en Opmerkingen]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[605991]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.747]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[What should you expect when you come across an interactive component or note box?]]></TEXT>
+      <TRANSLATION><![CDATA[Wat mag je verwachten als je een Opmerking-tekstkader of een interactief element in de leerstof tegenkomt?]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606036]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.997]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[As you scroll through the content, be sure to select the + symbols to reveal more information.]]></TEXT>
+      <TRANSLATION><![CDATA[Vergeet niet om, als je door de leerstof heen bladert, ook op het + teken te klikken. Je krijgt dan extra informatie te zien.]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606078]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.263]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Click to view offline]]></TEXT>
+      <TRANSLATION><![CDATA[Klik om offline te bekijken]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606079]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.263]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Click to view online]]></TEXT>
+      <TRANSLATION><![CDATA[Klik om online te bekijken]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606037]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.997]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[There are video clips in some sections that you’ll also need to select to play.<br /><br />If you are viewing offline, or with minimal bandwidth, select the green button under each video for an offline viewing option. You can change this setting at anytime by clicking an online button in the same location.]]></TEXT>
+      <TRANSLATION><![CDATA[Bij sommige lesprogrammaonderdelen vind je video's die je moet bekijken.<br /><br />Als je deze offline bekijkt, of als je weinig bandbreedte hebt, klik dan op het groene knopje onder de video om deze offline te kunnen bekijken. Je kunt deze instelling op elk moment weer aanpassen door op dezelfde plek op het online-knopje te klikken.]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606013]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.84]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<span style="color:#30b6a6;"><span id="yui-gen20"><i contenteditable="false" unselectable="on" class="fa fa-bell-o" data-unicode="f0a2" id="yui-gen33"></i>
+  <claro_style id="dki-gen42510" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1">
+   &nbsp; Note
+  </claro_style></span></span>]]></TEXT>
+      <TRANSLATION><![CDATA[<span style="color:#30b6a6;"><span id="yui-gen20"><i contenteditable="false" unselectable="on" class="fa fa-bell-o" data-unicode="f0a2" id="yui-gen33"></i>
+  <claro_style id="dki-gen42510" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1">
+   &nbsp; Opmerking
+  </claro_style></span></span>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606070]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.233]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<span style="color:#30b6a6;" id="yui-gen37"><claro_style id="dki-gen42694" class="dki-text-style-F3B0B56C-BE9F-4ED1-9854-E65B862E29EA"> Anytime you see this <claro_style id="dki-gen10277" class="dki-text-style-1BEB18CE-046E-CE78-7F50-A2C29F6CAD6E"> Note </claro_style> box, carefully read and follow the directions. You may be asked to access PADI materials, such as your PADI <claro_style id="dki-gen10278" class="dki-text-style-1BEF9870-96A8-94A4-9999-949FC66ECE39"> <claro_style id="dki-gen7345" class="dki-text-style-5319C8BA-E62B-E149-A476-1434036DFAF0">Instructor Manual</claro_style></claro_style>, to make a list or answer a question before continuing, or you may be reminded of important sequencing steps. </claro_style></span>]]></TEXT>
+      <TRANSLATION><![CDATA[<span style="color:#30b6a6;" id="yui-gen37"><claro_style id="dki-gen42694" class="dki-text-style-F3B0B56C-BE9F-4ED1-9854-E65B862E29EA"> Als je dit <claro_style id="dki-gen10277" class="dki-text-style-1BEB18CE-046E-CE78-7F50-A2C29F6CAD6E">Opmerking</claro_style>-tekstkader ziet, moet je die tekst zorgvuldig doorlezen en de aanwijzingen opvolgen. Er kan je worden gevraagd om bepaalde PADI-materialen te raadplegen, zoals je PADI <claro_style id="dki-gen10278" class="dki-text-style-1BEF9870-96A8-94A4-9999-949FC66ECE39"> <claro_style id="dki-gen7345" class="dki-text-style-5319C8BA-E62B-E149-A476-1434036DFAF0">Instructor Manual</claro_style></claro_style>, om een overzicht op te stellen of een vraag te beantwoorden. Of je wordt herinnerd aan belangrijke opeenvolgende stappen. </claro_style></span>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606065]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.217]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[3]]></TEXT>
+      <TRANSLATION><![CDATA[3]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606067]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.233]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<i contenteditable="false" unselectable="on" class="fa fa-angle-double-up" data-unicode="f102"></i> Back to top]]></TEXT>
+      <TRANSLATION><![CDATA[<i contenteditable="false" unselectable="on" class="fa fa-angle-double-up" data-unicode="f102"></i> Terug naar boven]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[605996]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.763]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Audio]]></TEXT>
+      <TRANSLATION><![CDATA[Audio]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[605999]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.78]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Knowledge Checks and Knowledge Reviews]]></TEXT>
+      <TRANSLATION><![CDATA[Kennischecks en kennistoeten]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606000]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.78]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[How do you complete Knowledge Checks and Knowledge Reviews?]]></TEXT>
+      <TRANSLATION><![CDATA[Hoe moet je de kennischecks en kennistoetsen doen?]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606024]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.92]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[At the end of each topic (or sometimes mid-topic) you’ll be presented with Knowledge Check questions. Test your understanding by answering the questions. If your initial answer(s) is not correct, you’ll be able to try again. If you have difficulty with these questions, go back and review the topic before moving on.]]></TEXT>
+      <TRANSLATION><![CDATA[Aan het eind van elk onderwerp (soms halverwege het onderwerp) word je gevraagd vragen uit een kennischeck te beantwoorden. Toets of je het onderwerp begrepen hebt door de vragen te beantwoorden. Als je eerste antwoord(en) niet correct is, mag je het nog eens proberen. Als je met deze vragen moeite hebt, moet je het onderwerp nog eens doornemen voordat je verder gaat met het volgende onderwerp.]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606054]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.153]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Read Knowledge Check text and select the best ____________ below.]]></TEXT>
+      <TRANSLATION><![CDATA[Doe de kennischeck en selecteer uit onderstaande ____________.]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606052]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.123]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[When you’ve completed all topics, you’ll assess overall understanding of the entire <claro_style id="dki-gen7638" class="dki-text-style-5319C8BA-E62B-E149-A476-1434036DFAF0">IDC eLearning</claro_style> section by completing a Knowledge Review.<br /><br />Unlike the Knowledge Checks, you can only review answer feedback after completing all of the questions and you must complete the Knowledge Review before you move on to another section. If you missed any questions, you must retake the Knowledge Review until you get 100 percent.]]></TEXT>
+      <TRANSLATION><![CDATA[Zodra je alle onderwerpen afgerond hebt, word je gevraagd de kennistoets te maken om te controleren of je de leerstof van het gehele <claro_style id="dki-gen7638" class="dki-text-style-5319C8BA-E62B-E149-A476-1434036DFAF0">IDC eLearning</claro_style>-programmaonderdeel begrijpt.<br /><br />In tegenstelling tot de kennischecks krijg je hier pas de feedback op je antwoorden nadat je alle vragen hebt beantwoord. Je moet de kennistoets volledig hebben afgerond voordat je met een ander lesprogrammaonderdeel verdergaat. Als je vragen fout hebt beantwoord moet je de kennistoets nogmaals doen tot je de volledige score van 100 procent hebt behaald.]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606053]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.123]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<span style="color:#30b6a6;"><span id="yui-gen20"><i contenteditable="false" unselectable="on" class="fa fa-bell-o" data-unicode="f0a2" id="yui-gen33"></i> 
+  <claro_style id="dki-gen42510" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1">
+    &nbsp; Note 
+  </claro_style></span></span>]]></TEXT>
+      <TRANSLATION><![CDATA[<span style="color:#30b6a6;"><span id="yui-gen20"><i contenteditable="false" unselectable="on" class="fa fa-bell-o" data-unicode="f0a2" id="yui-gen33"></i> 
+  <claro_style id="dki-gen42510" class="dki-text-style-270DF88B-DD7C-C25B-BFC5-1633031FB4E1">
+    &nbsp; Opmerking 
+  </claro_style></span></span>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606075]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.263]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<claro_style id="dki-gen8236" class="dki-text-style-3AE1D569-016D-FB3D-A40E-9EC328CEE713">If you complete the Knowledge Review while online, your results will be submitted and appear on your Instructor Development Course Report. If you complete Knowledge Reviews offline, your results will automatically be submitted when you go online.</claro_style>]]></TEXT>
+      <TRANSLATION><![CDATA[<claro_style id="dki-gen8236" class="dki-text-style-3AE1D569-016D-FB3D-A40E-9EC328CEE713">Als je de kennistoets online doet worden de resultaten verzonden waarna ze verschijnen in je instructeurscursusdossier. Als je de kennistoets offline doet worden de resultaten automatisch verzonden zodra je weer online gaat.</claro_style>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606005]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.81]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[4]]></TEXT>
+      <TRANSLATION><![CDATA[4]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606069]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.233]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<i contenteditable="false" unselectable="on" class="fa fa-angle-double-up" data-unicode="f102"></i> Back to top]]></TEXT>
+      <TRANSLATION><![CDATA[<i contenteditable="false" unselectable="on" class="fa fa-angle-double-up" data-unicode="f102"></i> Terug naar boven]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606008]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.827]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Audio]]></TEXT>
+      <TRANSLATION><![CDATA[Audio]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606011]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.827]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Loading]]></TEXT>
+      <TRANSLATION><![CDATA[Laden]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606012]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.84]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[What should you do if your page doesn’t appear to load right?]]></TEXT>
+      <TRANSLATION><![CDATA[Wat moet je doen als de pagina niet goed lijkt te laden?]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[2C613DFA-D9F7-4180-A309-0974B370B024]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.013]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[Keywords]]></PAGEMAPPING>
+      <TEXT><![CDATA[cursor,licensing,management,managing,mouse,navigation,padi,quality,risk,screenshot,web]]></TEXT>
+      <TRANSLATION><![CDATA[cursor,licentie,management,managen,muis,navigatie,padi,kwaliteit,risico,screenshot,web]]></TRANSLATION>
+      <TYPE><![CDATA[metadataKeywords]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606042]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.013]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Some users may occasionally experience longer than normal load times depending on their device, browser, and bandwidth. If a blank page loads, or a button seems unresponsive, give it a moment to load or respond; and remember that taking each section in order will help reduce wait times. If the page does not load in a short time, close it and try again.]]></TEXT>
+      <TRANSLATION><![CDATA[Bij sommige gebruikers duurt het, afhankelijk van het apparaat, de browser en bandbreedte, langer dan normaal om een pagina te laden. Als je een lege pagina te zien krijgt, of een knop lijkt niet te werken, wacht dan iets langer zodat alle pagina-elementen kunnen laden. En onthoud dat als je elk programmaonderdeel in de juiste volgorde doet, de wachttijd minder lang wordt. Als de pagina niet binnen een bepaalde tijd laadt, sluit de pagina dan af en probeer het opnieuw.]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606016]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.857]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[5]]></TEXT>
+      <TRANSLATION><![CDATA[5]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606071]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.247]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<i contenteditable="false" unselectable="on" class="fa fa-angle-double-up" data-unicode="f102"></i> Back to top]]></TEXT>
+      <TRANSLATION><![CDATA[<i contenteditable="false" unselectable="on" class="fa fa-angle-double-up" data-unicode="f102"></i> Terug naar boven]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606019]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.873]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Audio]]></TEXT>
+      <TRANSLATION><![CDATA[Audio]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606022]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.89]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Completing a Section]]></TEXT>
+      <TRANSLATION><![CDATA[Een lesprogrammaonderdeel afsluiten]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606023]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.903]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[What happens when you complete a section and what should you do next?]]></TEXT>
+      <TRANSLATION><![CDATA[Wat gebeurt er als je een lesprogrammaonderdeel afrondt en wat moet je daarna doen?]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[EEF40BA9-A005-4EF8-908E-745B0A30ED67]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.013]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[Keywords]]></PAGEMAPPING>
+      <TEXT><![CDATA[cursor,elearning,getting,how,menu,mouse,navigation,options,padi,started,use]]></TEXT>
+      <TRANSLATION><![CDATA[cursor,e-learning,beginnen,hoe,menu,muis,navigatie,opties,padi,gebruiken]]></TRANSLATION>
+      <TYPE><![CDATA[metadataKeywords]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606040]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.013]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[When you complete a section, you’ll see a list of all <claro_style id="dki-gen8373" class="dki-text-style-5319C8BA-E62B-E149-A476-1434036DFAF0">IDC eLearning</claro_style> sections. Choose the next section, or the one assigned by your PADI Course Director (or IDC Staff Instructor).]]></TEXT>
+      <TRANSLATION><![CDATA[Als je een lesprogrammaonderdeel afrondt, krijg je een overzicht te zien van alle <claro_style id="dki-gen8373" class="dki-text-style-5319C8BA-E62B-E149-A476-1434036DFAF0">IDC eLearning</claro_style>-programmaonderdelen. Selecteer het volgende programmaonderdeel, of het lesprogrammaonderdeel die je PADI Course Director (of IDC Staff Instructor) je opgeeft.]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606027]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.95]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[6]]></TEXT>
+      <TRANSLATION><![CDATA[6]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606072]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.247]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<i contenteditable="false" unselectable="on" class="fa fa-angle-double-up" data-unicode="f102"></i> Back to top]]></TEXT>
+      <TRANSLATION><![CDATA[<i contenteditable="false" unselectable="on" class="fa fa-angle-double-up" data-unicode="f102"></i> Terug naar boven]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606030]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.967]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Audio]]></TEXT>
+      <TRANSLATION><![CDATA[Audio]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606033]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.983]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[Audio]]></TEXT>
+      <TRANSLATION><![CDATA[Audio]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606034]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.983]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[How do you use the audio tool?]]></TEXT>
+      <TRANSLATION><![CDATA[Hoe gebruik je de audiotool?]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606035]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:05.997]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[You may choose to read through the material yourself, listen to the narration, or use a combination of both.<br /><br />There are two ways to listen to the audio:<br /><br /><ol id="yui-gen965"><li id="yui-gen966">At the top of each topic, select the play button to start the audio for the whole topic – it continues through all subtopics and objectives. You simply scroll down to follow along. This option is great for previewing or reviewing the entire topic.</li></ol><br /><ol id="yui-gen968" start="2"><li id="yui-gen964">To listen to the audio in shorter segments, select the play button above each subtopic or objective. This only plays the audio for that subtopic. Choosing this options allows you to focus your attention on each objective or to review specific information.</li></ol>]]></TEXT>
+      <TRANSLATION><![CDATA[Je kunt er voor kiezen om zelf de leerstof door te nemen, naar de tekst te luisteren of een combinatie van beide te gebruiken.<br /><br />Er zijn twee manieren om naar de audio te luisteren:<br /><br /><ol id="yui-gen965"><li id="yui-gen966">Klik op de knop Afspelen bovenaan het onderwerp om de audio voor dat gehele onderwerp af te laten spelen – alle sub-onderwerpen en leerdoelen komen aan bod. Je bladert eenvoudig naar beneden om in hetzelfde tempo door de tekst te lopen. Dit is een goede manier om het volledige onderwerp vooraf of juist achteraf door te nemen.</li></ol><br /><ol id="yui-gen968" start="2"><li id="yui-gen964">Klik op de knop Afspelen boven elk sub-onderwerp of leerdoel om de audio in kleine delen te beluisteren. Je krijgt dan alleen de audio voor dat sub-onderwerp te horen. Door deze optie te kiezen kun je je aandacht op elk afzonderlijk leerdoel richten, of specifieke informatie nog eens doornemen.</li></ol>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606077]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:06.263]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<i contenteditable="false" unselectable="on" class="fa fa-angle-double-up" data-unicode="f102"></i> Back to top]]></TEXT>
+      <TRANSLATION><![CDATA[<i contenteditable="false" unselectable="on" class="fa fa-angle-double-up" data-unicode="f102"></i> Terug naar boven]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[4912B185-5E25-4083-A33F-9D3BC364A2F4]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:08.087]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[Title]]></PAGEMAPPING>
+      <TEXT><![CDATA[Knowledge Review]]></TEXT>
+      <TRANSLATION><![CDATA[Kennistoets]]></TRANSLATION>
+      <TYPE><![CDATA[metadataTitle]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[4912B185-5E25-4083-A33F-9D3BC364A2F4]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:08.087]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[Description]]></PAGEMAPPING>
+      <TEXT><![CDATA[This endscreen displays at the end of a course after all content has been completed. A Pass or Fail notification is shown (if selected when publishing) based on the Course pass mark and the Passing Score. If re-take test options are available, a Take Test button displays. A Completion Certificate is available as well, if the option is selected when publishing.]]></TEXT>
+      <TRANSLATION><![CDATA[Dit eindscherm wordt aan het einde van een cursus getoond als de gehele lesstof is doorgenomen en afgerond. Er wordt op basis van de minimale slagingsscore en de uiteindelijke score een bericht Geslaagd of Gezakt getoond (indien dit aangevinkt is tijdens het publiceren). Als er een optie is om de toets opnieuw te doen dan wordt er een Doe-de-toets-knop getoond. Er is ook een afrondingscertificaatoptie beschikbaar als deze optie geselecteerd is tijdens het publiceren.]]></TRANSLATION>
+      <TYPE><![CDATA[metadataDescription]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[4912B185-5E25-4083-A33F-9D3BC364A2F4]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:08.087]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[Keywords]]></PAGEMAPPING>
+      <TEXT><![CDATA[course,summary,section,row,image]]></TEXT>
+      <TRANSLATION><![CDATA[cursus, samenvatting,hoofdstuk,rij,afbeelding]]></TRANSLATION>
+      <TYPE><![CDATA[metadataKeywords]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606085]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:07.437]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<div class="dki-justify-center" id="yui-gen5">Congratulations</div>]]></TEXT>
+      <TRANSLATION><![CDATA[<div class="dki-justify-center" id="yui-gen5">Gefeliciteerd</div>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606087]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:07.45]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<div class="dki-justify-center" id="yui-gen96">You've completed <span class="dki-text-style-italic"><span class="dki-text-style-bold" id="yui-gen97">How to use PADI eLearning</span></span></div>]]></TEXT>
+      <TRANSLATION><![CDATA[<div class="dki-justify-center" id="yui-gen96">Je hebt het lesprogrammaonderdeel <span class="dki-text-style-italic"><span class="dki-text-style-bold" id="yui-gen97">Werkwijze voor PADI eLearning</span></span> afgerond</div>]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606088]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:07.45]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[You're ready to move on.  Please complete the next section assigned by your Course Director or choose a section you've yet to complete.]]></TEXT>
+      <TRANSLATION><![CDATA[Je kunt nu verdergaan.  Doorloop het volgende programmaonderdeel dat door je Course Director is toegewezen of kies er een die je nog moet afronden.]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[Content]]></ELEMENTMAPPING>
+      <ID><![CDATA[606086]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:07.45]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[]]></PAGEMAPPING>
+      <TEXT><![CDATA[<i contenteditable="false" unselectable="on" class="fa fa-sign-in" data-unicode="f090"></i>&nbsp; Exit Section]]></TEXT>
+      <TRANSLATION><![CDATA[<i contenteditable="false" unselectable="on" class="fa fa-sign-in" data-unicode="f090"></i>&nbsp; Verlaat dit lesprogrammaonderdeel]]></TRANSLATION>
+      <TYPE><![CDATA[elementMeta]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[0E21C965-B0F3-428F-B586-8E3DA872DB1E]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:07.45]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[Description]]></PAGEMAPPING>
+      <TEXT><![CDATA[White Line]]></TEXT>
+      <TRANSLATION><![CDATA[Witregel]]></TRANSLATION>
+      <TYPE><![CDATA[metadataDescription]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[0E21C965-B0F3-428F-B586-8E3DA872DB1E]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:07.45]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[Keywords]]></PAGEMAPPING>
+      <TEXT><![CDATA[decoration,line,white]]></TEXT>
+      <TRANSLATION><![CDATA[decoration,line,white]]></TRANSLATION>
+      <TYPE><![CDATA[metadataKeywords]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[E3C71AF4-6383-4E52-B9E1-650811A806DA]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:08.697]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[Title]]></PAGEMAPPING>
+      <TEXT><![CDATA[Module Summary (Not Used)]]></TEXT>
+      <TRANSLATION><![CDATA[Module Summary (Not Used)]]></TRANSLATION>
+      <TYPE><![CDATA[metadataTitle]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[E3C71AF4-6383-4E52-B9E1-650811A806DA]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:08.697]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[Description]]></PAGEMAPPING>
+      <TEXT><![CDATA[This endscreen displays at the end of a module. The Learning completion score is shown. There are buttons to Continue to the next module, or you can View Content Again. If there is a module test, a Take Test button displays.]]></TEXT>
+      <TRANSLATION><![CDATA[Dit eindscherm toont het einde van een module. De afrondingsscore wordt getoond. Er zijn knoppen voor ‘Verdergaan naar de volgende module’ of je kunt de ‘Lesstof opnieuw doornemen’. Als er een moduletest is wordt een Doe-de-toets-knop getoond.]]></TRANSLATION>
+      <TYPE><![CDATA[metadataDescription]]></TYPE>
+    </CONTENT>
+    <CONTENT CF_TYPE="query">
+      <COURSEMAPPING><![CDATA[]]></COURSEMAPPING>
+      <ELEMENTMAPPING><![CDATA[]]></ELEMENTMAPPING>
+      <ID><![CDATA[E3C71AF4-6383-4E52-B9E1-650811A806DA]]></ID>
+      <LASTMODIFIED><![CDATA[2019-06-26 16:03:08.697]]></LASTMODIFIED>
+      <LEARNINGOBJECTMAPPING><![CDATA[]]></LEARNINGOBJECTMAPPING>
+      <MODULEMAPPING><![CDATA[]]></MODULEMAPPING>
+      <PAGEMAPPING><![CDATA[Keywords]]></PAGEMAPPING>
+      <TEXT><![CDATA[module,summary,circle,gauges,section,row]]></TEXT>
+      <TRANSLATION><![CDATA[module,summary,circle,gauges,section,row]]></TRANSLATION>
+      <TYPE><![CDATA[metadataKeywords]]></TYPE>
+    </CONTENT>
+  </CONTENTS>
+  <VARIABLES CF_TYPE="array" />
+  <COURSEID><![CDATA[101153]]></COURSEID>
+  <LINKS CF_TYPE="array" />
+  <GLOSSARIES />
+</XML_ELEMENT>
