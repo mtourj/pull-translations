@@ -32,6 +32,8 @@ readline.question('What relative path/directory do I read from?: ./', dir => {
 
     fs.writeFileSync(__dirname + "/result.txt", JSON.stringify(titles));
 
+    console.log(titles);
+
     console.log(`${titles.length - 1} translations extracted into result.txt`);
 
     readline.close();
@@ -55,11 +57,15 @@ const translate = dir => {
                 if(err) throw err;
                 else {
                     const res = cleanTitle(result.DATA.TEXT[0]) + ' === ' + cleanTitle(result.DATA.TRANSLATION[0]);
-                    console.log(res);
                     titles.push({
                         text: cleanTitle(result.DATA.TEXT[0]),
                         translation: cleanTitle(result.DATA.TRANSLATION[0])
                     });
+                    titles.sort((a, b) => {
+                        const numA = a.text.split(' ')[0];
+                        const numB = b.text.split(' ')[0];
+                        return numA - numB;
+                    })
                 }
             })
         } catch (err) {
@@ -86,7 +92,7 @@ const cleanTitle = title => {
         const start = text.indexOf('-') === -1 ? text.indexOf('-') : 0;
         const end = text.indexOf('(') === -1 ? text.indexOf('(') : text.length;
         text = text.slice(start, end);
-        return text.trim();
+        return title;
     }
 }
 
